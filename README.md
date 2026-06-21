@@ -15,3 +15,9 @@ This repository contains 8 beginner-level C programs demonstrating basic control
 | Task6_SimpleCalculator.c | Simulates a simple calculator |
 | Task7_CharacterType.c | Determines if a character is uppercase, lowercase, or symbol |
 | Task8_GradeSwitch.c | Displays grade based on marks using switch statement |
+
+
+checking the version control
+
+
+hi practing the git and github repo add and commits via VS Code
